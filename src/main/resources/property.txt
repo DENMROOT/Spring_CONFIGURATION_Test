@@ -1,0 +1,2 @@
+title=Hardcore
+artist=Metallica
